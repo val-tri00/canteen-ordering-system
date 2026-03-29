@@ -20,7 +20,7 @@ The system is designed with scalability, performance, and real-world usability i
 
 ## 🏛️ System Architecture
 
-![System Architecture](./screenshots/system-arhitecture.png)
+![System Architecture](./screenshots/sys-arhitecture.png)
 
 *Microservices-based architecture using Laravel services, Redis for caching, and NGINX as reverse proxy. Kafka integration is planned for asynchronous processing.*
 
